@@ -1,8 +1,8 @@
 ﻿# Assignment Project
 
- # Dashboard email and password is bhavargrover4@gmail.com and password is Lovishvanshu
 
- > 📌 **Note:** The Admin Dashboard for this project is located in the `master` branch of the same repository.
+
+ > 📌 **Note:** The Chatbot for this project is located in the `master` branch of the same repository.
 
 
 
