@@ -42,7 +42,7 @@ export function LoginForm() {
     
     try {
       // For demo purposes, hardcoded auth
-      if (values.email === 'bhavargrover4@gmail.com' && values.password === 'Lovishvanshu') {
+      if (values.email === 'admin@example.com' && values.password === 'password') {
         login({
           id: '1',
           email: values.email,
