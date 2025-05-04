@@ -2,12 +2,15 @@
 
  # Dashboard email and password is bhavargrover4@gmail.com and password is Lovishvanshu
 
+ > 📌 **Note:** The Admin Dashboard for this project is located in the `master` branch of the same repository.
+
 
 
 
  #  Chat Widget – Full Stack Intern Assignment
 
 This is an embeddable **Chat Widget** built with **React + Vite + TypeScript**, designed to provide a responsive, real-time messaging experience on any website. It connects via **Socket.IO** for WebSocket communication and is exportable as a `<script>` tag.
+
 
 ---
 
