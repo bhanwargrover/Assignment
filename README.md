@@ -5,26 +5,26 @@
 
 
 
- # 💬 Chat Widget – Full Stack Intern Assignment
+ #  Chat Widget – Full Stack Intern Assignment
 
 This is an embeddable **Chat Widget** built with **React + Vite + TypeScript**, designed to provide a responsive, real-time messaging experience on any website. It connects via **Socket.IO** for WebSocket communication and is exportable as a `<script>` tag.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🗨️ Chat bubble in bottom-right corner
-- 💬 Expands into full chat interface on click
-- 🔌 Real-time messaging via **Socket.IO**
-- ♻️ Chat history persists across page refreshes (`localStorage`)
-- 💅 Styled using **styled-components**
-- 📱 Fully responsive design
-- 🧩 Embeddable on any website using a `<script>` tag
+-  Chat bubble in bottom-right corner
+-  Expands into full chat interface on click
+-  Real-time messaging via **Socket.IO**
+-  Chat history persists across page refreshes (`localStorage`)
+-  Styled using **styled-components**
+-  Fully responsive design
+-  Embeddable on any website using a `<script>` tag
 
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - **React** (via Vite)
 - **TypeScript**
@@ -33,7 +33,7 @@ This is an embeddable **Chat Widget** built with **React + Vite + TypeScript**, 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 
